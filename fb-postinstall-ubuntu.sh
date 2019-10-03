@@ -37,6 +37,7 @@ sudo snap install photogimp
 ## Removing packages ##
 
 sudo apt remove remmina thunderbird firefox rhythmbox -y
+sudo apt autoremove
 
 ## Setting Gnome-Shell Theme ##
 
